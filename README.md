@@ -1,6 +1,6 @@
-## Hi I'm NguDangDang Phuoc :fox_face:
+## Hi I'm Nguyen Dang Phuoc :fox_face:
 
-![Phuoc](https://github.com/Gaboso/Gaboso/blob/master/github_cover.png "Gaboso")
+![Phuoc](https://github.com/Gaboso/Gaboso/blob/master/github_cover.png "Phuoc")
 
 :computer: _Software Engenieer at [Fitnezz.io](https://github.com/fitnezzio)_ :desert_island:Living in Floripa :brazil:
 
